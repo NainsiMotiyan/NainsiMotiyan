@@ -9,7 +9,7 @@
 <h3 align="center">Crafting code & caffeine into cool projects | B.Tech CSE Student</h3>
 
 <!-- Right-side aesthetic coding gif -->
-<img align="right" alt="Coding" width="400" src="https://dreamstime.com/cyberpunk-hacker-anime-girl-edgy-haircuy-typing-holographic-keyboard-surrounded-neon-code-digital-data-image277372320.jpg">
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=NainsiMotiyan&label=Profile%20views&color=ff69b4&style=flat" alt="NainsiMotiyan" /> 
